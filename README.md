@@ -3,8 +3,9 @@
 ## Setup
 - Goto `https://gohugo.io/getting-started/quick-start/` for downloading Hugo CLI
 - Once installed a new site can be created using Hugo CLI
+```
     $ hugo new site hugo-example
-
+```
 This will create a new website with default files and folders.
 - Install a theme to make the UI more appealing
 
