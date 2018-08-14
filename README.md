@@ -19,17 +19,17 @@ Second, specify `hyde` as your default theme in the `config.toml` file. Just add
     theme = "hyde"
 
 ## Add new pages
-- New pages can be added using the CLI
+New pages can be added using the CLI
 
     $ hugo new _index.md
     $ hugo new apps/store.md
     $ hugo new apps/website.md
 
-- Add content like how you add Markdown data
+Add content like how you add Markdown data
 
 ## Run Hugo WebServer 
-- Now to get the static website UP, run the hugo server
+Now to get the static website UP, run the hugo server
 
     $ hugo serve -D
 
-- The site is up at `http://localhost:1313/` by default
+The site is up at `http://localhost:1313/` by default
