@@ -1,3 +1,13 @@
+
+Table of Contents
+=================
+
+   * [Hugo Example](#hugo-example)
+      * [Setup](#setup)
+      * [Theme Installation](#theme-installation)
+      * [Add new pages](#add-new-pages)
+      * [Run Hugo WebServer](#run-hugo-webserver)
+      
 # Hugo Example
 
 ## Setup
